@@ -57,9 +57,10 @@ Open welcome_screen.sh to customize:
 
 ## 🚀 Auto-Start on Login
 To see this screen every time you SSH into your server, add this line to your .zshrc or .bashrc:
-
+```
 # inside ~/.zshrc
 source ~/path/to/welcome-screen.sh
+```
 
 ## 👤 Author
 Teacher Udon
